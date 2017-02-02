@@ -28,13 +28,20 @@ Karan Ahuja, & Rahul Islam. (2017). Cryptographic Key Generation from PUF Data [
 BibTeX:
 
 @misc{karan_ahuja_2017_267935,
+
   author       = {Karan Ahuja and
                   Rahul Islam},
+                  
   title        = {Cryptographic Key Generation from PUF Data},
+  
   month        = feb,
+  
   year         = 2017,
+  
   doi          = {10.5281/zenodo.267935},
+  
   url          = {https://doi.org/10.5281/zenodo.267935}
+  
 }
 
 REFERENCES
