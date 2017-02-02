@@ -19,8 +19,7 @@ If Key1=Key2 both of the PUF's have been generated from the same device.
 The input is taken to be random for now, but you should add your own PUF inputs here.
 
 For the full project with test data input and analysis using PUF's, and more explanation and detailed working e-mail me at 
-karanahujax@gmail.com . The whole project will be updated shortly once the results have been verified and compiled 
-together.
+karanahujax@gmail.com . 
 
 REFERENCES
 
