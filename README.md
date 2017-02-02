@@ -21,7 +21,11 @@ The input is taken to be random for now, but you should add your own PUF inputs 
 For the full project with test data input and analysis using PUF's, and more explanation and detailed working e-mail me at 
 karanahujax@gmail.com . 
 
-If you use this code, please cite:
+If you use this code, please cite as:
+
+Karan Ahuja, & Rahul Islam. (2017). Cryptographic Key Generation from PUF Data [Data set]. Zenodo. http://doi.org/10.5281/zenodo.267935
+
+BibTeX:
 
 @misc{karan_ahuja_2017_267935,
   author       = {Karan Ahuja and
