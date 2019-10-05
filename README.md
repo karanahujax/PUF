@@ -1,11 +1,7 @@
 Physically Unclonable Functions
 ===
 
-By:
 
-Karan Ahuja(IIIT Guwahati)
-
-Rahul Islam(IIIT Guwahati)
 
 
 Cryptographic Key Generation from Physically Unclonable Functions Data
