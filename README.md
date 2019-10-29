@@ -17,20 +17,6 @@ The input is taken to be random for now, but you should add your own PUF inputs 
 For the full project with test data input and analysis using PUF's, and more explanation and detailed working e-mail me at 
 karanahujax@gmail.com . 
 
-If you use this code, please cite as BibTeX:
-
-@misc{ahuja2017cryptographic,
-
-  title={Cryptographic Key Generation from PUF Data},
-  
-  author={Ahuja, Karan and Islam, Rahul},
-  
-  journal={https://doi.org/10.5281/zenodo.267935},
-  
-  year={2017}
-  
-}
-
 REFERENCES
 
 Y. Dodis, R. Ostrovsky, L. Reyzin and A. Smith, “Fuzzy Extractors:
